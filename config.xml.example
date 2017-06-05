@@ -1,0 +1,6 @@
+<config>
+	<param name="startWithAdvertisement">1</param>
+	<param name="numberFotosBetweenAdvertisements">5</param>
+	<param name="displaySecondsPerAdvertisement">60</param>
+	<param name="displaySecondsPerPhoto">12</param>
+</config>
